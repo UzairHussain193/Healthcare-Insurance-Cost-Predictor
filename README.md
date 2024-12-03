@@ -12,4 +12,4 @@ The project uses various regression models to predict insurance costs, including
 
 The performance of the models is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared (R²) score. The results are visualized using plots to compare the predicted values against the actual values.
 
-This project is licensed under the MIT License [Lisence]().
+This project is licensed under the MIT License [Lisence](LISENCE).
